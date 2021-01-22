@@ -9,3 +9,7 @@ To move the player, simply move the cc3200 and the gyroscope will send its value
 # How to use
 Have CCS installed on your computer. Open the IDE and import the project. Press build on the project. Ensure that the CC3200 is plugged into a usb port on your computer.
 Then flash the project using uniflash by TI. The game should then automatically run on your board.
+
+# Video of the Project
+Part 1: https://www.youtube.com/watch?v=f6rw6wyLV-I
+Part 2: https://www.youtube.com/watch?v=OQVd30ax9yo
