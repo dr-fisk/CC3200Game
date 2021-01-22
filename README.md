@@ -11,5 +11,5 @@ Have CCS installed on your computer. Open the IDE and import the project. Press 
 Then flash the project using uniflash by TI. The game should then automatically run on your board.
 
 # Video of the Project
-Part 1: https://www.youtube.com/watch?v=f6rw6wyLV-I
+Part 1: https://www.youtube.com/watch?v=f6rw6wyLV-I <br />
 Part 2: https://www.youtube.com/watch?v=OQVd30ax9yo
